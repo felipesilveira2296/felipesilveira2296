@@ -8,18 +8,19 @@ integrações, publicação e distribuição Android.
 
 ## Principais projetos
 
-### Lar em Ordem
+### [Lar em Ordem](https://fsjdesenvolvimento.com.br/lar-em-ordem/)
 
-Aplicativo para controle de estoque doméstico, validades, movimentações
-e lista de compras. Funciona offline e oferece sincronização com Firebase.
+Aplicativo Android para controle de estoque doméstico, validades,
+movimentações e compras. Funciona offline e oferece sincronização
+com Firebase.
 
-### Dona G Ateliê
+### [Dona G Ateliê](https://fsjdesenvolvimento.com.br/dona-g-atelie/)
 
 Aplicativo de catálogo de bolsas artesanais com busca, favoritos,
-avaliações, autenticação Google, encomendas pelo WhatsApp e administração
-remota de produtos.
+avaliações, autenticação Google, encomendas pelo WhatsApp e
+administração remota de produtos.
 
-### FSJ Desenvolvimento
+### [FSJ Desenvolvimento](https://fsjdesenvolvimento.com.br/)
 
 Site institucional e central pública de apresentação, suporte,
 privacidade e exclusão de conta dos aplicativos.
