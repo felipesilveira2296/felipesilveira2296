@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou Felipe Silveira 👋
 
-<!--
-**felipesilveira2296/felipesilveira2296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack e fundador da FSJ Desenvolvimento.
 
-Here are some ideas to get you started:
+Crio aplicativos mobile e soluções web completas, trabalhando da
+interface e experiência do usuário até autenticação, banco de dados,
+integrações, publicação e distribuição Android.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principais projetos
+
+### Lar em Ordem
+
+Aplicativo para controle de estoque doméstico, validades, movimentações
+e lista de compras. Funciona offline e oferece sincronização com Firebase.
+
+### Dona G Ateliê
+
+Aplicativo de catálogo de bolsas artesanais com busca, favoritos,
+avaliações, autenticação Google, encomendas pelo WhatsApp e administração
+remota de produtos.
+
+### FSJ Desenvolvimento
+
+Site institucional e central pública de apresentação, suporte,
+privacidade e exclusão de conta dos aplicativos.
+
+## Tecnologias
+
+- React Native, Expo, React e TypeScript
+- Firebase Authentication, Firestore e Hosting
+- Zustand, NativeWind e AsyncStorage
+- Google Sign-In, Cloudinary e AdMob
+- EAS Build, Android e Google Play
+
+## Contato
+
+- Portfólio: https://fsjdesenvolvimento.com.br
+- LinkedIn: https://www.linkedin.com/in/felipe-silveira-10786911b/
