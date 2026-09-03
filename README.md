@@ -8,6 +8,11 @@ integrações, publicação e distribuição Android.
 
 ## Principais projetos
 
+### [FSJ Desenvolvimento](https://fsjdesenvolvimento.com.br/)
+
+Site institucional e central pública de apresentação, suporte,
+privacidade e exclusão de conta dos aplicativos.
+
 ### [Lar em Ordem](https://fsjdesenvolvimento.com.br/lar-em-ordem/)
 
 Aplicativo Android para controle de estoque doméstico, validades,
@@ -19,11 +24,6 @@ com Firebase.
 Aplicativo de catálogo de bolsas artesanais com busca, favoritos,
 avaliações, autenticação Google, encomendas pelo WhatsApp e
 administração remota de produtos.
-
-### [FSJ Desenvolvimento](https://fsjdesenvolvimento.com.br/)
-
-Site institucional e central pública de apresentação, suporte,
-privacidade e exclusão de conta dos aplicativos.
 
 ## Tecnologias
 
